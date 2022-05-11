@@ -1,0 +1,56 @@
+**********************************
+********Pantalla Principal********
+**********************************
+
+Index
+
+***************************************
+********Boton Simulación Cajero********
+***************************************
+
+1. PANTALLA: cajero_Principal (Ingresar numero de tarjeta)
+2. PANTALLA: nip (Ingresar nip de tarjeta)
+3. PANTALLA: operaciones (Elegir acción)
+	3.1. BOTON: Seleccionar Accion (Retiro Efectivo)
+		3.1.1. PANTALLA: monto_De_Retiro (Seleccionar monto de retiro)
+		3.1.2. PANTALLA: terminando_Transaccion (Retire su dinero)
+			3.1.2.1. BOTON: Seleccionar Acción (Imprimir Ticket)
+				3.1.2.1.1. PANTALLA: imprimeTicket (Retirar ticket)
+	3.2. BOTON: Seleccionar Acción (Consulta de saldo)
+		3.2.1. PANTALLA: consulta_Saldo (Se muestra saldo de la tarjeta)
+
+*********************************************************
+********Boton Proceso Hadoop (Rechazos en Retiro)********
+*********************************************************
+
+Enviar archivo por correo los datos procesados del dia  
+
+*************************************************************
+********Boton Proceso Hadoop (Aprobaciones en Retiro)********
+*************************************************************
+
+Enviar archivo por correo los datos procesados del dia  
+
+*********************************************************
+********Boton Proceso Hadoop (Robo Hormiga)**************
+*********************************************************
+
+Enviar archivo por correo los datos procesados del dia  
+
+*********************************************************
+********Boton Generar datos aleatorios**************
+*********************************************************
+
+1. PANTALLA: generarTXT (data Transaccional)
+
+Crear archivo de toda la data transaccional para ejecutar
+los tres botones anteriores. 
+
+
+
+
+
+
+
+
+		

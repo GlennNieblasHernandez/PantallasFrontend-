@@ -1,0 +1,33 @@
+
+#principalCajero, #monitorTransaction{
+    background-color: lightsteelblue;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+
+#monitorTransaction{
+    padding-bottom: 30px;
+}
+
+#titulo{
+    text-align: center;
+    color: rgb(6, 104, 250);
+}
+
+#ImagenNip{
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+}
+
+#formularioNip{
+    padding-left: 10px;
+}
+
+#botronera{
+    width: 200px;
+    height: 200px;
+}
